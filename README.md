@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="1.jpeg">Main page</td>
+    <td><img src="1.jpeg"></td>
     <td><img src="2.jpeg"></td>
   </tr>
   <tr>
