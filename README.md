@@ -1,8 +1,19 @@
 ### images
 
-
-<img src ="https://github.com/cnaveenkumar74/Type-Runner/blob/master/1.jpeg" /><img src ="https://github.com/cnaveenkumar74/Type-Runner/blob/master/2.jpeg" />
-![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/3.jpeg) ![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/4.jpeg)
-![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/5.jpeg) ![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/6.jpeg)
-![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/7.jpeg) ![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/8.jpeg)
-![alt text](https://github.com/cnaveenkumar74/Type-Runner/blob/master/9.jpeg) 
+<table>
+  <tr>
+    <td><img src="1.jpeg" width=270 height=480></td>
+    <td><img src="2.jpeg" width=270 height=480></td>
+    <td><img src="3.jpeg" width=270 height=480></td>
+  </tr>
+  <tr>
+    <td><img src="4.jpeg" width=270 height=480></td>
+    <td><img src="5.jpeg" width=270 height=480></td>
+    <td><img src="6.jpeg" width=270 height=480></td>
+  </tr>
+  <tr>
+    <td><img src="7.jpeg" width=270 height=480></td>
+    <td><img src="8 .jpeg" width=270 height=480></td>
+    <td><img src="9.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
