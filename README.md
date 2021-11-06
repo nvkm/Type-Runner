@@ -12,8 +12,8 @@
     <td><img src="6.jpeg" width=270 height=480></td>
   </tr>
   <tr>
-    <td><img src="7.jpeg" width=270 height=480></td>
-    <td><img src="8 .jpeg" width=270 height=480></td>
-    <td><img src="9.jpeg" width=270 height=480></td>
+    <td><img src="7.jpeg"></td>
+    <td><img src="8.jpeg" ></td>
+    <td><img src="9.jpeg" ></td>
   </tr>
  </table>
