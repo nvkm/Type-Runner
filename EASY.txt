@@ -1,0 +1,5 @@
+The memory of the computer is not like human memory. 
+A memory of a computer can be thought as cells. 
+A group of 8 bits is called byte. 
+A bit means a binary digit ie; either 0 or 1. 
+The ALU performs all four functions(+,-,*,/).
